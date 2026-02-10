@@ -1,0 +1,18 @@
+{
+  "$GMPath":"",
+  "%Name":"Path_waiter",
+  "closed":false,
+  "kind":0,
+  "name":"Path_waiter",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":741.2722,"y":378.1903,},
+    {"speed":100.0,"x":542.64465,"y":378.02173,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
