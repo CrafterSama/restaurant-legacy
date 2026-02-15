@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_waiter_1",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_food_icon",
+  "eventList":[],
   "managed":true,
-  "name":"obj_waiter_1",
+  "name":"obj_food_icon",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_waiter_down",
-    "path":"sprites/spr_waiter_down/spr_waiter_down.yy",
+    "name":"spr_eggs",
+    "path":"sprites/spr_eggs/spr_eggs.yy",
   },
   "spriteMaskId":null,
   "visible":true,

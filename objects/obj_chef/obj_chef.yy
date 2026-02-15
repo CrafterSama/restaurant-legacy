@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_chef_down",
-    "path":"sprites/spr_chef_down/spr_chef_down.yy",
+    "name":"spr_chef_up",
+    "path":"sprites/spr_chef_up/spr_chef_up.yy",
   },
   "spriteMaskId":null,
   "visible":true,

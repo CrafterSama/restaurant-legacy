@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_client",
+  "%Name":"obj_waiter",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_client",
+  "name":"obj_waiter",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,10 +29,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_client_down",
-    "path":"sprites/spr_client_down/spr_client_down.yy",
+    "name":"spr_waiter_down",
+    "path":"sprites/spr_waiter_down/spr_waiter_down.yy",
   },
   "spriteMaskId":null,
   "visible":true,
